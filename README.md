@@ -14,11 +14,9 @@ This course explores **practical applications of Natural Language Processing (NL
 
 CAI2300C_NLP/
 
-├── assignments/          # Weekly course assignments
-
 ├── projects/            # Major course projects
 
-├── notebooks/          # Jupyter/Colab notebooks
+├── notebooks/          # Jupyter/Colab notebooks with weekly assignments
 
 └── resources/          # Additional learning materials
 
