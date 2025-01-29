@@ -11,10 +11,15 @@ This course explores **practical applications of Natural Language Processing (NL
 - Applications of modern NLP frameworks
 
 ## 📂 Repository Structure
+
 CAI2300C_NLP/
+
 ├── assignments/          # Weekly course assignments
+
 ├── projects/            # Major course projects
+
 ├── notebooks/          # Jupyter/Colab notebooks
+
 └── resources/          # Additional learning materials
 
 
